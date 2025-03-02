@@ -320,6 +320,7 @@ dependencies = [
 name = "rustcp"
 version = "0.1.0"
 dependencies = [
+ "arrayvec",
  "etherparse",
  "tun-tap",
 ]
